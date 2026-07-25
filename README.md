@@ -54,7 +54,7 @@ I enjoy learning new technologies, designing user-friendly interfaces, and turni
 
 ---
 
-##  Featured Projects
+##  Projects
 
 ###  RAJA BUS
 A bus timetable and booking platform designed to help Rajarata University students and staff find bus services easily.
@@ -65,9 +65,6 @@ A bus timetable and booking platform designed to help Rajarata University studen
 A modern personal portfolio website showcasing my skills, projects, education, and software development journey.
 
 **Tech:** HTML • CSS • JavaScript
-
-###  Full-Stack Web Projects
-Building practical web applications while improving my frontend, backend, database, and API development skills.
 
 ---
 
