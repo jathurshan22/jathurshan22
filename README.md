@@ -44,5 +44,5 @@ Rajarata University of Sri Lanka
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn Profile
-- Portfolio: Your Portfolio Website
+- LinkedIn: [Your LinkedIn Profile](https://jathurshan-portfolio.onrender.com/#home)
+- Portfolio: [Your Portfolio Website](https://jathurshan-portfolio.onrender.com/#home)
