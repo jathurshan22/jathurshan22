@@ -78,13 +78,6 @@ Rajarata University of Sri Lanka
 
 ---
 
-##  GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jathurshan22&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jathurshan22&layout=compact&hide_border=true)
-
----
 
 ##  Connect With Me
 
