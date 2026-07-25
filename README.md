@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Yogeswaren Jathurshan 👋
 
-<!--
-**jathurshan22/jathurshan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ICT Undergraduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm an ICT undergraduate passionate about building practical,
+user-focused digital experiences through software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.ICT (Hons) Undergraduate
+- 💻 Aspiring Software Engineer
+- 🌐 Interested in Full-Stack Development
+- 🎨 Interested in UI/UX Design
+- 📚 Always learning and building new projects
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React
+
+### Backend
+Node.js • Express.js
+
+### Database
+MongoDB
+
+### Programming Languages
+JavaScript • Python • Java • C
+
+### Tools & Design
+Git • GitHub • Figma • Canva
+
+## 🚀 Featured Projects
+
+- 🚍 **RAJA BUS** — Bus Timetable & Booking System
+- 💼 **Personal Portfolio Website**
+- 🌐 **Full-Stack Web Development Projects**
+- 🎨 **UI/UX Design Projects**
+
+## 🎓 Education
+
+**B.ICT (Hons)**  
+Rajarata University of Sri Lanka
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn Profile
+- Portfolio: Your Portfolio Website
