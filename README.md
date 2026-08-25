@@ -214,14 +214,23 @@ I focus on taking projects from **idea to implementation**, with attention to us
 # GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jathurshan22&show_icons=true&hide_border=true&theme=default" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jathurshan22&layout=compact&hide_border=true&theme=default" width="48%" />
-
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jathurshan22&theme=default"
+    width="95%"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jathurshan22&theme=default"
+    width="48%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jathurshan22&theme=default"
+    width="48%"
+  />
+</p>
 
 # Contribution Graph
 
