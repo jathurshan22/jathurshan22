@@ -4,44 +4,40 @@
 
 <p align="left">
   <a href="https://jathurshan-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jathurshanjohn2217@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Profile
+## About
 
-I am an Information and Communication Technology undergraduate at **Rajarata University of Sri Lanka**, focused on building a career in Software Engineering.
+I am an **Information and Communication Technology undergraduate** at **Rajarata University of Sri Lanka**, focused on building a career in Software Engineering.
 
-My interests span **Full-Stack Development, Web Development, Mobile Application Development, and UI/UX Design**. I enjoy transforming ideas into practical digital products with clean interfaces, responsive experiences, and reliable backend systems.
+My development interests include **Full-Stack Development, Web Development, Mobile Application Development, and UI/UX Design**.
 
-I learn primarily through building projects, experimenting with technologies, and continuously improving my development workflow.
+I enjoy turning ideas into practical digital products by combining clean interfaces, responsive design, backend systems, and database technologies.
+
+Currently, I am focused on strengthening my software engineering skills through practical projects and continuous learning.
 
 ---
 
-## Core Areas
+## Areas of Focus
 
-**Software Engineering**
-Application Development • Problem Solving • System Design • REST APIs
-
-**Full-Stack Development**
-Frontend Development • Backend Development • Database Integration
-
-**Web Development**
-Responsive Websites • Interactive Interfaces • Modern Web Applications
-
-**Application Development**
-Mobile Application Concepts • Application UI • Cross-Platform Development
-
-**UI/UX Design**
-User Research • Wireframing • Prototyping • Interface Design • Responsive Design
+| Area                   | Focus                                                   |
+| ---------------------- | ------------------------------------------------------- |
+| Software Engineering   | Problem Solving, Application Development, System Design |
+| Full-Stack Development | Frontend, Backend, REST APIs, Databases                 |
+| Web Development        | Responsive Websites, Web Applications                   |
+| App Development        | Application Interfaces, Mobile Development              |
+| UI/UX Design           | Wireframing, Prototyping, Interface Design              |
+| Development            | Git, GitHub, Version Control                            |
 
 ---
 
@@ -86,7 +82,8 @@ User Research • Wireframing • Prototyping • Interface Design • Responsiv
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-UI/UX Design • Wireframing • Prototyping • Design Systems • Responsive Design
+**Design Skills:**
+Wireframing • Prototyping • Responsive Design • Interface Design • User-Centered Design
 
 ## Development Tools
 
@@ -95,13 +92,12 @@ UI/UX Design • Wireframing • Prototyping • Design Systems • Responsive D
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-## Development Environment & Platforms
+## Deployment & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
@@ -119,24 +115,23 @@ A full-stack platform designed to simplify bus timetable discovery and booking f
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-**Development Areas**
+**Key Features**
 
-* Frontend interface development
-* REST API development
-* MongoDB database integration
-* Route and timetable management
-* District-based search
+* District-based route search
+* Bus timetable management
 * Private and CTB bus services
 * Booking functionality
-* Responsive UI
+* REST API integration
+* MongoDB database integration
+* Responsive interface
 
 ---
 
 ## Height CV
 
-### ATS-Friendly Resume Builder
+### ATS-Friendly CV Builder
 
-A modern web application designed to help users create structured and professional ATS-friendly resumes.
+A modern web application designed to help users create structured and professional resumes.
 
 **Technology**
 
@@ -144,19 +139,15 @@ A modern web application designed to help users create structured and profession
 
 **Focus**
 
-* User-friendly CV creation
-* Structured resume layouts
-* Responsive interface
-* Clean UI/UX
-* ATS-oriented design
+ATS-Friendly Layout • Responsive Design • Clean UI • User Experience
 
 ---
 
 ## Personal Portfolio
 
-### Personal Developer Portfolio
+### Developer Portfolio Website
 
-A responsive portfolio website designed to present my projects, technical skills, education, and software development journey.
+A responsive portfolio website created to showcase my projects, technical skills, education, and development journey.
 
 **Technology**
 
@@ -164,23 +155,46 @@ A responsive portfolio website designed to present my projects, technical skills
 
 **Focus**
 
-Responsive Design • UI/UX • Project Showcase • Personal Branding
+UI/UX • Responsive Design • Project Showcase • Personal Branding
 
 ---
 
-# Development Focus
+# Development Workflow
 
-| Area                   | Technologies / Skills                       |
-| ---------------------- | ------------------------------------------- |
-| Full-Stack Development | React, Node.js, Express.js, MongoDB         |
-| Frontend               | HTML, CSS, JavaScript, React                |
-| Backend                | Node.js, Express.js, REST APIs              |
-| Database               | MongoDB, SQLite                             |
-| UI/UX                  | Figma, Canva, Wireframing, Prototyping      |
-| App Development        | Application UI, Mobile Development Concepts |
-| Version Control        | Git, GitHub                                 |
-| Development            | VS Code, npm, Vite                          |
-| Deployment             | Render                                      |
+```text
+Idea
+  ↓
+Research & Planning
+  ↓
+UI/UX Design
+  ↓
+Frontend Development
+  ↓
+Backend & API Development
+  ↓
+Database Integration
+  ↓
+Testing & Improvement
+  ↓
+Deployment
+```
+
+I focus on building projects from concept to implementation while continuously improving usability, performance, and code quality.
+
+---
+
+# Current Learning
+
+* Full-Stack Web Development
+* React Development
+* Node.js & Express.js
+* MongoDB
+* REST API Development
+* Mobile Application Development
+* UI/UX Design
+* Software Engineering Practices
+* Git & GitHub
+* Application Deployment
 
 ---
 
@@ -204,35 +218,18 @@ Completed — August 2026
 
 ---
 
-# Current Learning
-
-* Full-Stack Web Application Development
-* React Development
-* Node.js & Express.js
-* MongoDB & Database Design
-* Mobile Application Development
-* UI/UX Design
-* REST API Development
-* Software Engineering Practices
-* Git & GitHub Workflow
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jathurshan22" />
-</p>
----
-
 # Connect
 
 <p align="left">
-<a href="https://jathurshan-portfolio.onrender.com/">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:jathurshanjohn2217@gmail.com">Email</a>
+  <a href="https://jathurshan-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jathurshanjohn2217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
