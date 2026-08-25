@@ -1,40 +1,57 @@
-<!-- Animated Header -->
+<!-- Custom Animated Hero -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=220&section=header&text=Yogeswaren%20Jathurshan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=230&section=header&text=Yogeswaren%20Jathurshan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Designer;Web+Application+Developer;App+Development+Enthusiast" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Designer;Web+Application+Developer;App+Development+Enthusiast"
+  />
 </p>
 
 <p align="center">
-  <a href="https://jathurshan-portfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jathurshanjohn2217@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,figma,git,github"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=55&text=BUILD%20%E2%80%A2%20DESIGN%20%E2%80%A2%20DEVELOP%20%E2%80%A2%20IMPROVE&fontSize=15&fontColor=FFFFFF"
+    width="85%"
+  />
 </p>
 
 ---
 
-# About Me
+## About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
 I am an **Information and Communication Technology undergraduate** at **Rajarata University of Sri Lanka**, focused on building a career in Software Engineering.
 
 I work across **Full-Stack Development, Web Development, Application Development, and UI/UX Design**.
 
-My goal is to build practical digital products by combining clean interfaces, responsive experiences, backend systems, APIs, and databases.
+My goal is to transform ideas into practical digital products by combining modern interfaces, responsive experiences, backend systems, APIs, and databases.
 
-Currently, I am improving my software engineering skills through hands-on projects and continuous learning.
+Currently, I am strengthening my software engineering skills through hands-on projects and continuous learning.
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=320&height=150&lines=%3C+Full-Stack+Developer+%2F%3E;%3C+UI%2FUX+Designer+%2F%3E;%3C+App+Developer+%2F%3E;%3C+Software+Engineer+%2F%3E" />
+
+</td>
+</tr>
+</table>
+
 
 ### Current Focus
 
