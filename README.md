@@ -50,7 +50,11 @@ Currently, I am improving my software engineering skills through hands-on projec
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500" />
+
+<br><br>
+
+**Completing tasks while hearing music 🎵**
 
 </td>
 </tr>
@@ -200,7 +204,7 @@ Full-Stack • Web • App Development • UI/UX
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=55&text=PLAN%20→%20DESIGN%20→%20DEVELOP%20→%20TEST%20→%20DEPLOY&fontSize=17&fontColor=FFFFFF" width="90%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=55&text=PLAN%20%E2%86%92%20DESIGN%20%E2%86%92%20DEVELOP%20%E2%86%92%20TEST%20%E2%86%92%20DEPLOY&fontSize=17&fontColor=FFFFFF" width="90%" />
 
 </p>
 
@@ -212,15 +216,9 @@ I focus on taking projects from **idea to implementation**, with attention to us
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jathurshan22&show_icons=true&hide_border=true&theme=default"
-    width="48%"
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=jathurshan22&show_icons=true&hide_border=true&theme=default" width="48%" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jathurshan22&layout=compact&hide_border=true&theme=default"
-    width="48%"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jathurshan22&layout=compact&hide_border=true&theme=default" width="48%" />
 
 </p>
 
@@ -230,12 +228,12 @@ I focus on taking projects from **idea to implementation**, with attention to us
 
 <p align="center">
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jathurshan22&theme=default&hide_border=true"
-    width="95%"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jathurshan22&theme=default&hide_border=true" width="95%" />
 
 </p>
+
+---
+
 # Education
 
 ### Bachelor of Information and Communication Technology (Hons)
