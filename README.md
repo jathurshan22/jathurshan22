@@ -211,7 +211,14 @@ I focus on taking projects from **idea to implementation**, with attention to us
 # GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jathurshan22&bg_color=ffffff&color=111827&line=2563EB&point=06B6D4&area=true&hide_border=true" width="95%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jathurshan22&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jathurshan22&layout=compact&hide_border=true&theme=default"
+    width="48%"
+  />
 </p>
 
 ---
@@ -219,9 +226,11 @@ I focus on taking projects from **idea to implementation**, with attention to us
 # Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jathurshan22/jathurshan22/output/github-contribution-grid-snake.svg" width="95%" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jathurshan22&theme=default&hide_border=true"
+    width="95%"
+  />
 </p>
-
 ---
 
 # Education
