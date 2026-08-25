@@ -54,7 +54,6 @@ Currently, I am improving my software engineering skills through hands-on projec
 
 <br><br>
 
-**Completing tasks while hearing music 🎵**
 
 </td>
 </tr>
