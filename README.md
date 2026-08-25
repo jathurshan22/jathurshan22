@@ -221,12 +221,13 @@ Completed — August 2026
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jathurshan22&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jathurshan22&layout=compact&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jathurshan22&hide_border=true" />
 </p>
 
 ---
