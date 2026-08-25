@@ -1,104 +1,114 @@
-# Yogeswaren Jathurshan
+<!-- Animated Header -->
 
-### ICT Undergraduate | Aspiring Software Engineer | Full-Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=220&section=header&text=Yogeswaren%20Jathurshan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Designer;Web+Application+Developer;App+Development+Enthusiast" />
+</p>
 
 <p align="center">
   <a href="https://jathurshan-portfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jathurshanjohn2217@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+# About Me
+
+<table>
+<tr>
+<td width="60%">
 
 I am an **Information and Communication Technology undergraduate** at **Rajarata University of Sri Lanka**, focused on building a career in Software Engineering.
 
-I build practical digital products across **Full-Stack Development, Web Development, Mobile Application Development, and UI/UX Design**.
+I work across **Full-Stack Development, Web Development, Application Development, and UI/UX Design**.
 
-My approach combines software development with user-centered design, allowing me to work across the interface, application logic, APIs, databases, and deployment process.
+My goal is to build practical digital products by combining clean interfaces, responsive experiences, backend systems, APIs, and databases.
 
-Currently, I am strengthening my software engineering skills by building practical projects and exploring modern development technologies.
+Currently, I am improving my software engineering skills through hands-on projects and continuous learning.
+
+### Current Focus
+
+* Full-Stack Web Development
+* Application Development
+* UI/UX Design
+* REST API Development
+* Database Integration
+* Software Engineering
+* Git & GitHub
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Core Areas
+# Core Expertise
 
-| Area                   | Focus                                                   |
-| ---------------------- | ------------------------------------------------------- |
-| Software Engineering   | Problem Solving, Application Development, System Design |
-| Full-Stack Development | Frontend, Backend, REST APIs, Databases                 |
-| Web Development        | Responsive Websites, Interactive Applications           |
-| App Development        | Application Interfaces, Mobile Development              |
-| UI/UX Design           | Wireframing, Prototyping, Interface Design              |
-| Version Control        | Git, GitHub, Development Workflow                       |
+<p align="center">
+
+<img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPMENT-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%2FUX%20DESIGN-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0369A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APP%20DEVELOPMENT-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-374151?style=for-the-badge" />
+
+</p>
 
 ---
 
 # Technologies & Tools
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c" />
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite" />
 </p>
 
 ### UI/UX & Design
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=figma" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
-
-**Design:** Wireframing • Prototyping • Responsive Design • Interface Design • User-Centered Design
 
 ### Development Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### API & Development
-
-<p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
 ### Deployment
@@ -111,94 +121,106 @@ Currently, I am strengthening my software engineering skills by building practic
 
 # Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ## RAJA BUS
 
-### Full-Stack Bus Timetable & Booking Platform
+**Full-Stack Bus Timetable & Booking Platform**
 
-A full-stack platform designed to simplify bus timetable discovery and booking for Rajarata University students and staff.
+A platform designed to simplify bus timetable discovery and booking for Rajarata University students and staff.
 
-**Technology**
+**Stack**
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB`
+`HTML` `CSS` `JavaScript`
+`Node.js` `Express.js` `MongoDB`
 
-**Key Features**
+**Focus**
 
-* District-based route search
-* Bus timetable management
-* Private and CTB bus services
-* Booking functionality
-* REST API integration
-* MongoDB database integration
-* Responsive interface
+Route Search • Timetables • Booking • REST API • Database • Responsive UI
 
----
+</td>
+
+<td width="50%">
 
 ## Height CV
 
-### ATS-Friendly CV Builder
+**ATS-Friendly CV Builder**
 
-A modern web application designed to help users create structured and professional ATS-friendly resumes.
+A modern web application for creating structured and professional resumes with a clean interface.
 
-**Technology**
+**Stack**
 
 `HTML` `CSS` `JavaScript`
 
 **Focus**
 
-ATS-Friendly Layout • Responsive Design • Clean UI • User Experience
+ATS Layout • Responsive Design • UI/UX • User Experience
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## Personal Portfolio
 
-### Developer Portfolio Website
+**Developer Portfolio Website**
 
-A responsive portfolio website created to showcase my projects, technical skills, education, and software development journey.
+A responsive portfolio showcasing my projects, technical skills, education, and development journey.
 
-**Technology**
+**Stack**
 
 `HTML` `CSS` `JavaScript`
 
 **Focus**
 
-UI/UX • Responsive Design • Project Showcase • Personal Branding
+UI/UX • Responsive Design • Project Showcase
+
+</td>
+
+<td width="50%">
+
+## More Projects
+
+I continuously build and experiment with new applications to strengthen my development and software engineering skills.
+
+**Areas**
+
+Full-Stack • Web • App Development • UI/UX
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Development Workflow
 
-```text
-Planning
-   ↓
-UI/UX Design
-   ↓
-Frontend Development
-   ↓
-Backend & API Development
-   ↓
-Database Integration
-   ↓
-Testing
-   ↓
-Deployment
-```
+<p align="center">
 
-I focus on taking projects from concept to implementation while continuously improving usability, performance, and code quality.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=55&text=PLAN%20→%20DESIGN%20→%20DEVELOP%20→%20TEST%20→%20DEPLOY&fontSize=17&fontColor=FFFFFF" width="90%" />
+
+</p>
+
+I focus on taking projects from **idea to implementation**, with attention to usability, responsive design, functionality, code quality, and deployment.
 
 ---
 
-# Current Learning
+# GitHub Activity
 
-* Full-Stack Web Development
-* React Development
-* Node.js & Express.js
-* MongoDB
-* REST API Development
-* Mobile Application Development
-* UI/UX Design
-* Software Engineering Practices
-* Git & GitHub
-* Application Deployment
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jathurshan22&bg_color=ffffff&color=111827&line=2563EB&point=06B6D4&area=true&hide_border=true" width="95%" />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jathurshan22/jathurshan22/output/github-contribution-grid-snake.svg" width="95%" />
+</p>
 
 ---
 
@@ -222,12 +244,13 @@ Completed — August 2026
 
 ---
 
-# GitHub Activity
-
-My GitHub profile contains projects, experiments, and development work as I continue building practical software engineering experience.
+# Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jathurshan22&hide_border=true&area=true" width="95%" />
+
+`React` `Node.js` `Express.js` `MongoDB` `REST APIs`
+`Mobile Development` `UI/UX` `Software Engineering` `Git & GitHub`
+
 </p>
 
 ---
@@ -235,18 +258,26 @@ My GitHub profile contains projects, experiments, and development work as I cont
 # Connect
 
 <p align="center">
-  <a href="https://jathurshan-portfolio.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jathurshanjohn2217@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://jathurshan-portfolio.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/yogeswaran-jathurshan-192393337/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jathurshanjohn2217@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:111827&height=120&section=footer" width="100%" />
+</p>
 
 <p align="center">
 
