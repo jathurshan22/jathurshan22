@@ -1,32 +1,83 @@
-<!-- Custom Animated Hero -->
+<!-- Animated Developer Workspace -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=230&section=header&text=Yogeswaren%20Jathurshan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Yogeswaren%20Jathurshan&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Designer;Web+Application+Developer;App+Development+Enthusiast"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Designer;Web+Application+Developer;App+Development+Enthusiast"
+  />
+</p>
+
+<!-- Developer Workspace -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/docusaurus/static/img/undraw_docusaurus_mountain.svg"
+    width="420"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,figma,git,github"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=55&text=BUILD%20%E2%80%A2%20DESIGN%20%E2%80%A2%20DEVELOP%20%E2%80%A2%20IMPROVE&fontSize=15&fontColor=FFFFFF"
-    width="85%"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,figma,git,github,vscode" />
 </p>
 
 ---
+
+## Developer Workspace
+
+<p align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  YATHURSHAN.DEV                                  ● ● ●       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ~/projects                                                  │
+│                                                              │
+│  ├── frontend                                                │
+│  │   ├── React                                               │
+│  │   ├── JavaScript                                          │
+│  │   └── Responsive UI                                       │
+│  │                                                          │
+│  ├── backend                                                 │
+│  │   ├── Node.js                                             │
+│  │   ├── Express.js                                          │
+│  │   └── REST API                                            │
+│  │                                                          │
+│  ├── database                                                │
+│  │   ├── MongoDB                                             │
+│  │   └── SQLite                                              │
+│  │                                                          │
+│  └── design                                                  │
+│      ├── Figma                                               │
+│      └── UI/UX                                               │
+│                                                              │
+│  status: building...                                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</p>
+
+---
+
+<p align="center">
+
+**FULL-STACK DEVELOPMENT  •  UI/UX DESIGN  •  APP DEVELOPMENT**
+
+</p>
+
+<p align="center">
+
+`BUILD`   `DESIGN`   `DEVELOP`   `IMPROVE`
+
+</p>
+
 
 ## About Me
 
