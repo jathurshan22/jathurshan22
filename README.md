@@ -78,12 +78,12 @@
 
 </p>
 
-
 ## About Me
 
 <table>
 <tr>
-<td width="62%">
+
+<td width="60%">
 
 I am an **Information and Communication Technology undergraduate** at **Rajarata University of Sri Lanka**, focused on building a career in Software Engineering.
 
@@ -93,16 +93,61 @@ My goal is to transform ideas into practical digital products by combining moder
 
 Currently, I am strengthening my software engineering skills through hands-on projects and continuous learning.
 
+### Current Focus
+
+- Full-Stack Web Development
+- Application Development
+- UI/UX Design
+- REST API Development
+- Database Integration
+- Software Engineering
+- Git & GitHub
+
 </td>
 
-<td width="38%" align="center">
+<td width="40%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=320&height=150&lines=%3C+Full-Stack+Developer+%2F%3E;%3C+UI%2FUX+Designer+%2F%3E;%3C+App+Developer+%2F%3E;%3C+Software+Engineer+%2F%3E" />
+<!-- Animated Developer Workspace -->
 
-</td>
-</tr>
-</table>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=600&color=2563EB&center=true&vCenter=true&width=350&height=45&lines=%24+cd+%7E%2Fprojects;%24+npm+run+dev;%24+building+full-stack+apps;%24+designing+better+interfaces;%24+status%3A+building..."
+  width="100%"
+/>
 
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,figma,git"
+  width="90%"
+/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+
+```text
+┌──────────────────────────┐
+│  developer.workspace     │
+├──────────────────────────┤
+│                          │
+│  frontend/               │
+│    React                 │
+│    JavaScript            │
+│                          │
+│  backend/                │
+│    Node.js               │
+│    Express               │
+│                          │
+│  database/               │
+│    MongoDB               │
+│                          │
+│  design/                 │
+│    Figma                 │
+│                          │
+│  status: building...     │
+└──────────────────────────┘
 
 ### Current Focus
 
