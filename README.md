@@ -225,22 +225,22 @@ I focus on taking projects from **idea to implementation**, with attention to us
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jathurshan22&theme=default"
     width="48%"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jathurshan22&theme=default"
     width="48%"
   />
 </p>
 
+---
+
 # Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jathurshan22&theme=default&hide_border=true" width="95%" />
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jathurshan22&theme=default&hide_border=true"
+    width="95%"
+  />
 </p>
-
----
 
 # Education
 
